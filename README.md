@@ -47,7 +47,7 @@ Data Scientist and AI/ML Engineer with **10+ years** of experience building ente
 
 ## 📊 Featured Projects
 
-### 🔬 [G3 Statistical Analysis](https://github.com/leducse/g3-statistical-analysis)
+### 🔬 [Causal Impact Analysis](https://github.com/leducse/causal-impact-analysis)
 **Advanced Causal Inference & Statistical Modeling**
 - Propensity score matching, difference-in-differences, bootstrap confidence intervals
 - **$706K annual revenue** validation with 100% PSM success rate
